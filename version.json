@@ -1,8 +1,8 @@
 {
-  "versionName": "0.10.6",
-  "versionCode": 12069999,
+  "versionName": "0.11.0",
+  "versionCode": 13009999,
   "mandatory": false,
   "apkUrl": "https://github.com/matiszaf/WolfEdu-Releases/releases/latest/download/WolfEdu.apk",
-  "changelog": "Test aktualizacji WolfEdu OTA v2",
-  "publishedAt": "2026-08-07T18:22:04.917602+00:00"
+  "changelog": "Nowa wersja WolfEdu",
+  "publishedAt": "2026-08-07T19:00:08.677543+00:00"
 }
