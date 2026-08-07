@@ -1,0 +1,8 @@
+{
+  "versionName": "0.10.2",
+  "versionCode": 1000002,
+  "mandatory": false,
+  "apkUrl": "https://github.com/matiszaf/WolfEdu-Releases/releases/latest/download/WolfEdu.apk",
+  "changelog": "Dodano system aktualizacji OTA przez GitHub Releases",
+  "publishedAt": "2026-08-07T15:20:22.239642+00:00"
+}
