@@ -1,8 +1,8 @@
 {
-  "versionName": "0.11.7",
-  "versionCode": 13079999,
+  "versionName": "0.11.8",
+  "versionCode": 13089999,
   "mandatory": false,
   "apkUrl": "https://github.com/matiszaf/WolfEdu-Releases/releases/latest/download/WolfEdu.apk",
-  "changelog": "WolfEdu 0.11.7\n\nZmiany od v0.11.6:\n- release(console): WolfEdu Console 2.0.3\n- release(console): WolfEdu Console 2.0.2\n- release(console): WolfEdu Console 2.0.1\n- release(console): WolfEdu Console 2.0.0",
-  "publishedAt": "2026-08-08T11:34:13.575993+00:00"
+  "changelog": "Aktualizacja WolfEdu 0.11.8 - poprawki i ulepszenia.",
+  "publishedAt": "2026-08-08T18:41:45.439799+00:00"
 }
