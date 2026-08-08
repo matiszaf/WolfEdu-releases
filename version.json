@@ -1,8 +1,8 @@
 {
-  "versionName": "0.11.8",
-  "versionCode": 13089999,
+  "versionName": "0.11.9",
+  "versionCode": 13099999,
   "mandatory": false,
   "apkUrl": "https://github.com/matiszaf/WolfEdu-Releases/releases/latest/download/WolfEdu.apk",
-  "changelog": "Aktualizacja WolfEdu 0.11.8 - poprawki i ulepszenia.",
-  "publishedAt": "2026-08-08T18:41:45.439799+00:00"
+  "changelog": "Fix OTA z Console",
+  "publishedAt": "2026-08-08T20:07:04.463880+00:00"
 }
