@@ -1,8 +1,8 @@
 {
-  "versionName": "0.11.3",
-  "versionCode": 13039999,
+  "versionName": "0.11.4",
+  "versionCode": 13049999,
   "mandatory": false,
   "apkUrl": "https://github.com/matiszaf/WolfEdu-Releases/releases/latest/download/WolfEdu.apk",
-  "changelog": "Fix AuthSession + Plan",
-  "publishedAt": "2026-08-08T08:50:27.400814+00:00"
+  "changelog": "UI Refresh Fix",
+  "publishedAt": "2026-08-08T09:27:10.347443+00:00"
 }
