@@ -1,8 +1,8 @@
 {
-  "versionName": "0.11.2",
-  "versionCode": 13029999,
+  "versionName": "0.11.3",
+  "versionCode": 13039999,
   "mandatory": false,
   "apkUrl": "https://github.com/matiszaf/WolfEdu-Releases/releases/latest/download/WolfEdu.apk",
-  "changelog": "Tasks 2.0",
-  "publishedAt": "2026-08-08T08:28:17.848010+00:00"
+  "changelog": "Fix AuthSession + Plan",
+  "publishedAt": "2026-08-08T08:50:27.400814+00:00"
 }
