@@ -1,8 +1,8 @@
 {
-  "versionName": "0.11.4",
-  "versionCode": 13049999,
+  "versionName": "0.11.5",
+  "versionCode": 13059999,
   "mandatory": false,
   "apkUrl": "https://github.com/matiszaf/WolfEdu-Releases/releases/latest/download/WolfEdu.apk",
-  "changelog": "UI Refresh Fix",
-  "publishedAt": "2026-08-08T09:27:10.347443+00:00"
+  "changelog": "WolfEdu 0.11.5\n\nZmiany od v0.10.6-stable:\n- ci: automatyczny release OTA po tagu\n- feature(plan): Aktualizacja Plan 2.0\n- fix(UI): Page refreshing fix\n- fix(auth+plan): Naprawa Sesji logowania + Planu local\n- feat(tasks): Zadania 2.0\n- feat(grades): Oceny 2.0\n- feat(settings): Settings 2.0\n- feat(dashboard): Dashboard 2.0",
+  "publishedAt": "2026-08-08T10:06:39.144619+00:00"
 }
