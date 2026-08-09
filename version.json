@@ -1,8 +1,8 @@
 {
-  "versionName": "0.11.18",
-  "versionCode": 13189999,
+  "versionName": "0.11.19",
+  "versionCode": 13199999,
   "mandatory": false,
   "apkUrl": "https://github.com/matiszaf/WolfEdu-Releases/releases/latest/download/WolfEdu.apk",
-  "changelog": "Dodano obowiązkowe tematy lekcji dla nauczycieli oraz kontrolę brakujących tematów.",
-  "publishedAt": "2026-08-09T14:14:10.052561+00:00"
+  "changelog": "Przywrócono zakładkę Nauka w dolnej nawigacji dla nauczycieli.",
+  "publishedAt": "2026-08-09T16:22:09.691138+00:00"
 }
