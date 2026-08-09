@@ -1,8 +1,8 @@
 {
-  "versionName": "0.11.14",
-  "versionCode": 13149999,
-  "mandatory": false,
+  "versionName": "0.11.15",
+  "versionCode": 13159999,
+  "mandatory": true,
   "apkUrl": "https://github.com/matiszaf/WolfEdu-Releases/releases/latest/download/WolfEdu.apk",
-  "changelog": "Test automatycznej aktualizacji po wdrożeniu blokady wymaganych wersji.",
-  "publishedAt": "2026-08-09T10:00:05.178690+00:00"
+  "changelog": "Test wymaganej aktualizacji OTA",
+  "publishedAt": "2026-08-09T11:20:06.284308+00:00"
 }
