@@ -1,8 +1,8 @@
 {
-  "versionName": "0.11.11",
-  "versionCode": 13119999,
+  "versionName": "0.11.12",
+  "versionCode": 13129999,
   "mandatory": false,
   "apkUrl": "https://github.com/matiszaf/WolfEdu-Releases/releases/latest/download/WolfEdu.apk",
-  "changelog": "Test Uruchomienia Zewnętrznego Scheduler",
-  "publishedAt": "2026-08-09T07:22:00.329549+00:00"
+  "changelog": "Poprawiono automatyczne uruchamianie instalatora aktualizacji OTA.",
+  "publishedAt": "2026-08-09T09:18:20.598665+00:00"
 }
