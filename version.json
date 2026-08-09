@@ -1,8 +1,8 @@
 {
-  "versionName": "0.11.15",
-  "versionCode": 13159999,
-  "mandatory": true,
+  "versionName": "0.11.16",
+  "versionCode": 13169999,
+  "mandatory": false,
   "apkUrl": "https://github.com/matiszaf/WolfEdu-Releases/releases/latest/download/WolfEdu.apk",
-  "changelog": "Test wymaganej aktualizacji OTA",
-  "publishedAt": "2026-08-09T11:20:06.284308+00:00"
+  "changelog": "Nowa nawigacja kategorii i interfejs zależny od roli użytkownika",
+  "publishedAt": "2026-08-09T12:04:36.672952+00:00"
 }
