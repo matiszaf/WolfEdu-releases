@@ -1,8 +1,8 @@
 {
-  "versionName": "2.0.15",
-  "versionCode": 3001500,
+  "versionName": "2.0.16",
+  "versionCode": 3001600,
   "mandatory": false,
-  "apkUrl": "https://github.com/matiszaf/WolfEdu-Releases/releases/download/console-v2.0.15/WolfEdu-Console.apk",
-  "changelog": "Poprawiono automatyczne sprawdzanie aktualizacji Console po powrocie do aplikacji.",
-  "publishedAt": "2026-08-09T10:42:14.331392+00:00"
+  "apkUrl": "https://github.com/matiszaf/WolfEdu-Releases/releases/download/console-v2.0.16/WolfEdu-Console.apk",
+  "changelog": "Test natywnego odświeżania OTA po powrocie do Console.",
+  "publishedAt": "2026-08-09T10:51:29.405035+00:00"
 }
