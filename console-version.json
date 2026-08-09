@@ -1,8 +1,8 @@
 {
-  "versionName": "2.0.11",
-  "versionCode": 3001100,
+  "versionName": "2.0.12",
+  "versionCode": 3001200,
   "mandatory": false,
-  "apkUrl": "https://github.com/matiszaf/WolfEdu-Releases/releases/download/console-v2.0.11/WolfEdu-Console.apk",
-  "changelog": "Dodano pobieranie i instalowanie aktualizacji OTA bezpośrednio z WolfEdu Console",
-  "publishedAt": "2026-08-09T08:24:05.344704+00:00"
+  "apkUrl": "https://github.com/matiszaf/WolfEdu-Releases/releases/download/console-v2.0.12/WolfEdu-Console.apk",
+  "changelog": "Test pełnej aktualizacji OTA WolfEdu Console",
+  "publishedAt": "2026-08-09T08:31:14.022310+00:00"
 }
