@@ -1,8 +1,8 @@
 {
-  "versionName": "0.11.19",
-  "versionCode": 13199999,
+  "versionName": "0.11.20",
+  "versionCode": 13209999,
   "mandatory": false,
   "apkUrl": "https://github.com/matiszaf/WolfEdu-Releases/releases/latest/download/WolfEdu.apk",
-  "changelog": "Przywrócono zakładkę Nauka w dolnej nawigacji dla nauczycieli.",
-  "publishedAt": "2026-08-09T16:22:09.691138+00:00"
+  "changelog": "Nauczyciele mogą teraz dodawać i zarządzać własnymi ocenami, zadaniami oraz frekwencją. Dodano automatyczne przypisywanie nauczyciela do tworzonych wpisów oraz odpowiednie zabezpieczenia uprawnień.",
+  "publishedAt": "2026-08-09T18:09:59.635865+00:00"
 }
