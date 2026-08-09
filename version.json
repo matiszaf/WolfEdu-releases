@@ -1,8 +1,8 @@
 {
-  "versionName": "0.11.16",
-  "versionCode": 13169999,
+  "versionName": "0.11.17",
+  "versionCode": 13179999,
   "mandatory": false,
   "apkUrl": "https://github.com/matiszaf/WolfEdu-Releases/releases/latest/download/WolfEdu.apk",
-  "changelog": "Nowa nawigacja kategorii i interfejs zależny od roli użytkownika",
-  "publishedAt": "2026-08-09T12:04:36.672952+00:00"
+  "changelog": "Poprawki UI: kategoria Osoby, lepszy kontrast kafelków i usunięcie zdublowanych funkcji",
+  "publishedAt": "2026-08-09T12:40:02.960001+00:00"
 }
