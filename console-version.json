@@ -1,0 +1,8 @@
+{
+  "versionName": "2.0.9",
+  "versionCode": 3000900,
+  "mandatory": false,
+  "apkUrl": "https://github.com/matiszaf/WolfEdu-Releases/releases/download/console-v2.0.9/WolfEdu-Console.apk",
+  "changelog": "Pierwszy test OTA WolfEdu Console",
+  "publishedAt": "2026-08-09T07:49:43.624613+00:00"
+}
