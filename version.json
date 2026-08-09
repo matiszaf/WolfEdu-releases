@@ -1,8 +1,8 @@
 {
-  "versionName": "0.11.17",
-  "versionCode": 13179999,
+  "versionName": "0.11.18",
+  "versionCode": 13189999,
   "mandatory": false,
   "apkUrl": "https://github.com/matiszaf/WolfEdu-Releases/releases/latest/download/WolfEdu.apk",
-  "changelog": "Poprawki UI: kategoria Osoby, lepszy kontrast kafelków i usunięcie zdublowanych funkcji",
-  "publishedAt": "2026-08-09T12:40:02.960001+00:00"
+  "changelog": "Dodano obowiązkowe tematy lekcji dla nauczycieli oraz kontrolę brakujących tematów.",
+  "publishedAt": "2026-08-09T14:14:10.052561+00:00"
 }
