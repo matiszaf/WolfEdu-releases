@@ -1,8 +1,8 @@
 {
-  "versionName": "0.11.25",
-  "versionCode": 13259999,
+  "versionName": "0.11.26",
+  "versionCode": 13269999,
   "mandatory": false,
   "apkUrl": "https://github.com/matiszaf/WolfEdu-Releases/releases/latest/download/WolfEdu.apk",
-  "changelog": "Fix Dodawania Konta Rodzica v2",
-  "publishedAt": "2026-08-14T10:51:50.141583+00:00"
+  "changelog": "Fix Uprawnień konta Dyrektora do wyświetlenia użytkowników",
+  "publishedAt": "2026-08-14T14:53:45.146323+00:00"
 }
