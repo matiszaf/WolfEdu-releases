@@ -1,8 +1,8 @@
 {
-  "versionName": "0.11.21",
-  "versionCode": 13219999,
+  "versionName": "0.11.22",
+  "versionCode": 13229999,
   "mandatory": false,
   "apkUrl": "https://github.com/matiszaf/WolfEdu-Releases/releases/latest/download/WolfEdu.apk",
-  "changelog": "Zmiana Repo Git na Public",
-  "publishedAt": "2026-08-14T08:43:24.649014+00:00"
+  "changelog": "Dodane Filtrowanie po Uprawnieniach konta",
+  "publishedAt": "2026-08-14T09:49:29.925773+00:00"
 }
