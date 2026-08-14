@@ -1,8 +1,8 @@
 {
-  "versionName": "2.0.17",
-  "versionCode": 3001700,
+  "versionName": "2.0.18",
+  "versionCode": 3001800,
   "mandatory": false,
-  "apkUrl": "https://github.com/matiszaf/WolfEdu-Releases/releases/download/console-v2.0.17/WolfEdu-Console.apk",
-  "changelog": "Test natywnego odświeżania OTA Console.",
-  "publishedAt": "2026-08-09T11:00:19.149608+00:00"
+  "apkUrl": "https://github.com/matiszaf/WolfEdu-Releases/releases/download/console-v2.0.18/WolfEdu-Console.apk",
+  "changelog": "Dodano zarządzanie szkołami w Console ",
+  "publishedAt": "2026-08-14T13:16:55.563141+00:00"
 }
