@@ -1,8 +1,8 @@
 {
-  "versionName": "2.0.18",
-  "versionCode": 3001800,
+  "versionName": "2.0.19",
+  "versionCode": 3001900,
   "mandatory": false,
-  "apkUrl": "https://github.com/matiszaf/WolfEdu-Releases/releases/download/console-v2.0.18/WolfEdu-Console.apk",
-  "changelog": "Dodano zarządzanie szkołami w Console ",
-  "publishedAt": "2026-08-14T13:16:55.563141+00:00"
+  "apkUrl": "https://github.com/matiszaf/WolfEdu-Releases/releases/download/console-v2.0.19/WolfEdu-Console.apk",
+  "changelog": "Fix Połączenia Owner-School",
+  "publishedAt": "2026-08-14T13:43:02.728025+00:00"
 }
