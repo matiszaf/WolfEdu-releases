@@ -1,8 +1,8 @@
 {
-  "versionName": "0.11.20",
-  "versionCode": 13209999,
+  "versionName": "0.11.21",
+  "versionCode": 13219999,
   "mandatory": false,
   "apkUrl": "https://github.com/matiszaf/WolfEdu-Releases/releases/latest/download/WolfEdu.apk",
-  "changelog": "Nauczyciele mogą teraz dodawać i zarządzać własnymi ocenami, zadaniami oraz frekwencją. Dodano automatyczne przypisywanie nauczyciela do tworzonych wpisów oraz odpowiednie zabezpieczenia uprawnień.",
-  "publishedAt": "2026-08-09T18:09:59.635865+00:00"
+  "changelog": "Zmiana Repo Git na Public",
+  "publishedAt": "2026-08-14T08:43:24.649014+00:00"
 }
