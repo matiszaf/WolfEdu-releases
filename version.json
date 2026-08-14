@@ -1,8 +1,8 @@
 {
-  "versionName": "0.11.24",
-  "versionCode": 13249999,
+  "versionName": "0.11.25",
+  "versionCode": 13259999,
   "mandatory": false,
   "apkUrl": "https://github.com/matiszaf/WolfEdu-Releases/releases/latest/download/WolfEdu.apk",
-  "changelog": "Fix Dodawania Konta Rodzica",
-  "publishedAt": "2026-08-14T10:39:34.930794+00:00"
+  "changelog": "Fix Dodawania Konta Rodzica v2",
+  "publishedAt": "2026-08-14T10:51:50.141583+00:00"
 }
