@@ -1,8 +1,8 @@
 {
-  "versionName": "0.11.30",
-  "versionCode": 13309999,
+  "versionName": "0.11.31",
+  "versionCode": 13319999,
   "mandatory": false,
   "apkUrl": "https://github.com/matiszaf/WolfEdu-Releases/releases/latest/download/WolfEdu.apk",
-  "changelog": "zmieniono input type dla wyboru nr lekcji, na dropdown",
-  "publishedAt": "2026-08-16T11:13:36.637363+00:00"
+  "changelog": "Poprawione Wagi Ocen",
+  "publishedAt": "2026-08-16T11:37:37.268221+00:00"
 }
