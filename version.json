@@ -1,8 +1,8 @@
 {
-  "versionName": "0.11.27",
-  "versionCode": 13279999,
+  "versionName": "0.11.28",
+  "versionCode": 13289999,
   "mandatory": false,
   "apkUrl": "https://github.com/matiszaf/WolfEdu-Releases/releases/latest/download/WolfEdu.apk",
-  "changelog": "Usunięcie funkcji, oraz UI Tworzenia nowej Szkoły",
-  "publishedAt": "2026-08-14T15:09:33.325312+00:00"
+  "changelog": "Zaktualizowano Plan lekcji, frekwencję, oraz dodano podgląd zrealizowanych lekcji dla ucznia",
+  "publishedAt": "2026-08-16T10:17:48.817127+00:00"
 }
