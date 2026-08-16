@@ -1,8 +1,8 @@
 {
-  "versionName": "0.11.28",
-  "versionCode": 13289999,
+  "versionName": "0.11.29",
+  "versionCode": 13299999,
   "mandatory": false,
   "apkUrl": "https://github.com/matiszaf/WolfEdu-Releases/releases/latest/download/WolfEdu.apk",
-  "changelog": "Zaktualizowano Plan lekcji, frekwencję, oraz dodano podgląd zrealizowanych lekcji dla ucznia",
-  "publishedAt": "2026-08-16T10:17:48.817127+00:00"
+  "changelog": "Dodano auto-uzupełnianie godzin lekcyjnych",
+  "publishedAt": "2026-08-16T10:45:35.079008+00:00"
 }
